@@ -1,0 +1,3 @@
+AI6GS Rotator
+
+Arduino based wifi antenna rotator, more info to come....
